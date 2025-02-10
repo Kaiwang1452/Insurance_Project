@@ -29,10 +29,10 @@ Key findings from the data analysis include:
 - **Jupyter Notebook** for analysis and data visualisation
 - **Machine Learning models** Linear Regression & Random Forest Regression (Best Model)
 
-🏁 Results
-Smokers incur significantly higher insurance costs.
-Age and BMI are strong predictors of medical expenses.
-The Random Forest model performed well in predicting insurance costs.
+## 🏁 Results
+- Smokers incur significantly higher insurance costs.
+- Age and BMI are strong predictors of medical expenses.
+- The Random Forest model performed well in predicting insurance costs.
 
 ## 📊 Dataset
 
