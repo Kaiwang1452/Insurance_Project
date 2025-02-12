@@ -37,8 +37,7 @@ Key findings from the data analysis include:
 - The Random Forest model performed well in predicting insurance costs.
 
 ![Alt text](reports/pic_3.png)
-![Alt text](reports/pic_4.png)
-![Alt text](reports/pic_2.png)
+
 ## 📊 Dataset
 
 The dataset includes policyholder details, claim history, premium amounts, and fraud indicators. The data is preprocessed to handle missing values, outliers, and categorical encoding.
