@@ -36,7 +36,7 @@ Key findings from the data analysis include:
 - Age and BMI are strong predictors of medical expenses.
 - The Random Forest model performed well in predicting insurance costs.
 
-![Alt text](reports/pic_3.png)
+![Alt text](reports/pic_3.jpg)![Alt text](reports/pic_4.jpg)![Alt text](reports/pic_2.jpg)
 
 ## 📊 Dataset
 
