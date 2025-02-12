@@ -21,6 +21,7 @@ Key findings from the data analysis include:
 - **Smokers** pay **60% higher** insurance charges on average.
 - There is a strong correlation between **Age** and **insurance costs**.
 - The **Southeast** region has the highest average medical charges.
+![Alt text](reports/pic_1.png)
 
 ## 🛠️ Technologies Used
 
